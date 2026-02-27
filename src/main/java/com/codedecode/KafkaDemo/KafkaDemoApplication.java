@@ -10,7 +10,4 @@ public class KafkaDemoApplication {
 		SpringApplication.run(KafkaDemoApplication.class, args);
 	}
 
-
-
-    // commit
 }
