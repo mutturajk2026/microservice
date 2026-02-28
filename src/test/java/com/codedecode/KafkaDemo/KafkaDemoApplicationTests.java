@@ -11,9 +11,4 @@ class KafkaDemoApplicationTests {
 	}
 
 }
-
-
-/// dljksflksdf//kjdsf
-
-//kjndskljjf
 //
