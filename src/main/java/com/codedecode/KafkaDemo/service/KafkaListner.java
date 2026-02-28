@@ -11,4 +11,3 @@ public class KafkaListner {
 		System.out.println("Message received is " + messageReceived);
 	}
 }
-// KafkaListner
