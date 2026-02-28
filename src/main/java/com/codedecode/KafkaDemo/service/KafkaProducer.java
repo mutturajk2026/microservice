@@ -24,11 +24,11 @@ public class KafkaProducer {
     public String sendMessage(Message message){
         kafkaTemplate.send(TOPIC, message);
         return  "sent sent to kafka topic ";
-    
+
 
 
             }
-
+//KafkaProducer
 
 }
 
