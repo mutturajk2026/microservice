@@ -23,7 +23,5 @@ public class FetchMessageFromClient {
         return "Message sent Successfully to the your code decode topic ";
     }
 
-    //
-
 	
 }
